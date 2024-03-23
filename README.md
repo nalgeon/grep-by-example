@@ -1,4 +1,4 @@
-# Grep by example
+# Grep by Example Minibook
 
 grep is the ultimate text search tool available on virtually all Linux machines. While there are now better alternatives (such as `ripgrep`), you will still often find yourself on a server where grep is the only search tool available. So it's nice to have a working knowledge of it.
 
